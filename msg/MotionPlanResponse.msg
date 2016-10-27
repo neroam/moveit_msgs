@@ -12,5 +12,8 @@ RobotTrajectory trajectory
 # Planning time (seconds)
 float64 planning_time
 
+# Trajectory cost
+float64 trajectory_cost
+
 # Error code - encodes the overall reason for failure
 MoveItErrorCodes error_code
